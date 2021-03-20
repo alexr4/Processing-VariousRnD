@@ -1,0 +1,14 @@
+{
+	"title" : "Simple BJR Sketch",
+	"output" : {
+		"fps" : 60,
+		"width" : 500,
+		"height" : 500,
+		"x" : 0,
+		"y" : 0,
+		"topBar" : true,
+		"smooth" : 8,
+		"scale" : 1.0,
+		"exportPath" : "exports/"
+	}
+}

@@ -1,0 +1,8 @@
+*/build/
+/.gradle/
+/.idea/
+
+/devolay-natives/src/main/headers/
+/devolay-java/devolay-java/keys.properties
+/devolay-java/keys.properties
+/devolay-natives/.idea/

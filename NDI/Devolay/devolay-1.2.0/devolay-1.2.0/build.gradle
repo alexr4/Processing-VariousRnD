@@ -1,0 +1,10 @@
+import org.gradle.api.JavaVersion;
+
+plugins {
+    id 'idea'
+}
+
+allprojects {
+    group 'com.walker'
+    version '1.2.0'
+}
